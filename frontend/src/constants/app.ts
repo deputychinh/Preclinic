@@ -1,0 +1,5 @@
+export const DEFAULT_PAGE_SIZE = 25
+export const AI_DRAFT_POLL_INTERVAL_MS = 2000
+export const AI_DRAFT_POLL_TIMEOUT_MS = 60000
+export const SEARCH_DEBOUNCE_MS = 300
+export const BREAK_GLASS_MIN_REASON_LENGTH = 10

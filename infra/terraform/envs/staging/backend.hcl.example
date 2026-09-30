@@ -1,0 +1,6 @@
+# Created by scripts/aws/bootstrap.sh; one state file per environment.
+bucket       = "carepath-tfstate-ACCOUNT_ID"
+key          = "staging/terraform.tfstate"
+region       = "ap-southeast-1"
+encrypt      = true
+use_lockfile = true
